@@ -11,7 +11,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
   "MONGODB_URI": "mongodb://mongo:Kx3SgXwvW4AkhXZQMDwx@containers-us-west-48.railway.app:5828",
   "PACK_INFO": "Dark;Nero",
   "PREFIX": ".",
-  "AUTO_REACTION": false,
+  "AUTO_REACTION": true,
   "READ_MESSAGE" : true,
    "THEME" : 'Dark-Nero',
   "ALWAYS_ONLINE": 'true'
